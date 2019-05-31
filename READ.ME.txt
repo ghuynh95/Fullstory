@@ -1,0 +1,1 @@
+Code is done in python 3. Dependencies:PandasNumpyMatplotlibSeabornDatetimeCalendarSklearnCode can be ran without any input parameters if the taxi data is in the same directory as the code.Main function contains function calls to the processes detailed in the writeup.
